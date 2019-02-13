@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AplikasiAndroidPertamaSaya</string>
+    <string name="your_height_cm">Ketinggian (cm)</string>
+    <string name="bmi_calculator">BMI Kalkulator</string>
+    <string name="your_weight_kg">Berat Badan (kg)</string>
+    <string name="compute_my_bmi">Tunjukkan BMI Saya</string>
+</resources>
