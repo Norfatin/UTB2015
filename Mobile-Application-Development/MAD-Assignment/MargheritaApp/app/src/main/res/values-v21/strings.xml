@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="order_now">Order Now</string>
+    <string name="view_cart">View Cart</string>
+    <string name="manager_page">Manager Page</string>
+    <string name="cashier_page">Cashier Page</string>
+    <string name="waiter_page">Waiter Page</string>
+    <string name="chef_page">Chef Page</string>
+    <string name="home">Home</string>
+</resources>

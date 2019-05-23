@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:title="@string/home"/>
+        <item
+            android:id="@+id/nav_order_now"
+            android:title="@string/order_now"/>
+        <item
+            android:id="@+id/nav_view_cart"
+            android:title="@string/view_cart" />
+
+    </group>
+
+    <item android:title="Employee Section">
+        <menu>
+            <item
+                android:id="@+id/nav_manager"
+                android:title="@string/manager_page" />
+            <item
+                android:id="@+id/nav_cashier"
+                android:title="@string/cashier_page" />
+            <item
+                android:id="@+id/nav_waiter"
+                android:title="@string/waiter_page" />
+            <item
+                android:id="@+id/nav_chef"
+                android:title="@string/chef_page" />
+        </menu>
+    </item>
+</menu>
